@@ -6,4 +6,4 @@ Martha is a senior manager for the Advisory Services Team at Accountability Acco
 
 ## Analysis
 
-The analysis consists of processing data, clustering, reducing dimensions and principal components using methods of unsupervised machine learning. This analysis is for our clients PCA who are prepping to get into the cryptocurrency market. 
+The analysis consists of processing data, clustering, reducing dimensions and principal components using methods of unsupervised machine learning. This analysis is for our clients PCA who are preparing to get into the cryptocurrency market. 
